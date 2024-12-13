@@ -104,11 +104,22 @@ asset-management-laptops/
 ```
 
 ## Screenshots
-### Dashboard:
+### Login Page:
 ![Login Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203022.png)
 
-### Add/Edit Laptop:
+### Laptop Laptop:
 ![Form Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203031.png)
+
+
+### Employee Page:
+![Form Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203045.png)
+
+
+### Laptop Assigning:
+![Form Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203054.png)
+
+### Database :
+![Form Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203202.png)
 
 ## Future Enhancements
 - **Authentication:** Implement user authentication and role-based access control.
@@ -137,7 +148,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 If you have any questions, feel free to reach out:
-- **Email:** pankaj.sharma@example.com
+- **Email:** ps3threee@gmail.com
 - **LinkedIn:** [Pankaj Sharma](https://www.linkedin.com/in/pankaj-sharma-925b2b250/)
 
 ---
