@@ -105,6 +105,9 @@ asset-management-laptops/
 
 ![Flow Diagram](https://github.com/ps3coder/assets_management/blob/main/flow.drawio)
 
+<iframe src="https://github.com/ps3coder/assets_management/blob/main/flow.drawio" width="800" height="600"></iframe>
+
+
 ## Screenshots
 ### Login Page:
 ![Login Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203022.png)
