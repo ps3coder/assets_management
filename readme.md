@@ -103,9 +103,8 @@ asset-management-laptops/
 └── README.md
 ```
 
-![Flow Diagram](https://github.com/ps3coder/assets_management/blob/main/flow.drawio)
+![Flow Diagram](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20221622.png)
 
-<iframe src="https://github.com/ps3coder/assets_management/blob/main/flow.drawio" width="800" height="600"></iframe>
 
 
 ## Screenshots
