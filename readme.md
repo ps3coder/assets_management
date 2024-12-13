@@ -107,7 +107,7 @@ asset-management-laptops/
 ### Login Page:
 ![Login Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203022.png)
 
-### Laptop Laptop:
+### Laptop Page:
 ![Form Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203031.png)
 
 
