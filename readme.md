@@ -38,7 +38,7 @@ This project is a full-stack Asset Management System designed to manage and trac
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/ps3coder/assets_management>
+   git clone https://github.com/ps3coder/assets_management
    cd asset-management
    ```
 
@@ -75,15 +75,15 @@ This project is a full-stack Asset Management System designed to manage and trac
    The frontend will run on `http://localhost:3000`, and the backend will run on `http://localhost:5000`.
 
 ## API Endpoints
-### Base URL: `http://localhost:5000/api/laptops`
+### Base URL: `http://localhost:5000/api/laptops` & `http://localhost:5000/api/employees`
 
-| Method | Endpoint          | Description                  |
-|--------|-------------------|------------------------------|
-| GET    | `/`               | Get all laptops             |
-| POST   | `/`               | Add a new laptop            |
-| GET    | `/:id`            | Get a laptop by ID          |
-| PUT    | `/:id`            | Update laptop details       |
-| DELETE | `/:id`            | Delete a laptop             |
+| Method | Endpoint          | Description                            |
+|--------|-------------------|----------------------------------------|
+| GET    | `/`               | Get all laptops  & employees           |
+| POST   | `/`               | Add a new laptop & employee            |
+| GET    | `/:id`            | Get a laptop & employee  by ID         |
+| PUT    | `/:id`            | Update laptop & employee  details      |
+| DELETE | `/:id`            | Delete a laptop & employee             |
 
 ## Folder Structure
 ```
@@ -105,12 +105,10 @@ asset-management-laptops/
 
 ## Screenshots
 ### Dashboard:
-Displays a list of laptops with search and filter options.
-![Dashboard Screenshot](path/to/screenshot1.png)
+![Login Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203022.png)
 
 ### Add/Edit Laptop:
-Form for adding or editing laptop details.
-![Form Screenshot](path/to/screenshot2.png)
+![Form Screenshot](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-12-13%20203031.png)
 
 ## Future Enhancements
 - **Authentication:** Implement user authentication and role-based access control.
@@ -143,4 +141,3 @@ If you have any questions, feel free to reach out:
 - **LinkedIn:** [Pankaj Sharma](https://www.linkedin.com/in/pankaj-sharma-925b2b250/)
 
 ---
-Thank you for using the Asset Management System!
